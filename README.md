@@ -9,7 +9,7 @@ You should implement the next:
 2. A bar chart:
     - **x-axis**: range categories (e.g. `-10 - 0`, `0 - 10`, `10 - 20` etc)
     - **y-axis**: the amount of numbers in each category
-3. An input called *"Alert threshold"*:
+3. (Optional) An input called *"Alert threshold"*:
     - a user should be able to enter a number
     - if the random number received from the server is greater than the threshold - show an alert toast / snackbar with the number as the payload
 4. Design: we appreciate your own design decisions =)
