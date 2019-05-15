@@ -14,7 +14,7 @@ You should implement the next:
     - if the random number received from the server is greater than the threshold - show an alert toast / snackbar with the number as the payload
 4. Design: we appreciate your own design decisions =)
 
-Charts should be updated in real time.
+Charts should be updated in real time. **Please**, consider code style best practices. 
 
 # Limitations
 
