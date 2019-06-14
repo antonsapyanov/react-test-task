@@ -22,7 +22,7 @@ Charts should be updated in real time. **Please**, consider code style best prac
 2. Use [socket.io-client](https://socket.io/docs/client-api) to connect to the server
 3. That’s all
 
-**P.S.** Feel free to use any module bundler, charts package, UI-kit etc you want.
+**P.S.** Feel free to use any module bundler, charts package, UI-kit etc you want. **BUT** please, leave some notes about the project setup.
 
 # Server Setup
 
