@@ -18,7 +18,7 @@ Charts should be updated in real time. **Please**, consider code style best prac
 
 # Limitations
 
-1. Use **React** and **Redux** =)
+1. **React**
 2. Use [socket.io-client](https://socket.io/docs/client-api) to connect to the server
 3. That’s all
 
